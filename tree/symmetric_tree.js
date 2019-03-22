@@ -1,0 +1,1 @@
+climbStairs(n-1)

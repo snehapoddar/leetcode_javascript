@@ -1,0 +1,18 @@
+var arr = [4,5,8,2];
+var k = 3;
+arr.push(3);
+arr = arr.sort();
+console.log(arr, arr[arr.length-k]);
+arr.push(5);
+arr = arr.sort();
+console.log(arr, arr[arr.length-k]);
+arr.push(10);
+arr = arr.sort();
+console.log(arr, arr[arr.length-k]);
+arr.push(9);
+arr = arr.sort();
+console.log(arr, arr[arr.length-k]);
+arr.push(4);
+arr = arr.sort();
+console.log(arr, arr[arr.length-k]);arr.push(10);
+console.log(Number.NEGATIVE_INFINITY);
